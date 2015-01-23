@@ -1,20 +1,19 @@
 html{
   background-color: #dbd6cf;
   color: black;
-}
+  font-family: Arial, sans-serif;}
+
 
 h1{
   font-family: 'Chewy', cursive;
   font-style: bold;
   color: #79756f;
-  font-size: 3rem;
-}
+  font-size: 3rem;}
 
 h2{font-family: 'Chewy', cursive;
 font-style: bold;
 color: #79756f;
-font-size: 2rem;
-}
+font-size: 2rem;}
 
 h3 {font-family: 'Chewy', cursive;
 font-style: bold;
@@ -25,11 +24,26 @@ ol {
   list-style: none;
   text-decoration: underline;
   padding: 0;
-  color: maroon;
+  color: maroon;}
 
-}
+ul { style:  }
 
-.gray { color: #79756f;
+a {color:maroon;}
 
+a:hover {color:blue;}
 
-}
+.gray { color: #79756f;}
+
+.quote {
+        color: #79756f;
+        font-style:bold;
+        font-size: 2rem;}
+
+.italics {font-style: italic;}
+
+.space {
+        font-family: Times;
+        font-size: 1.5rem;
+        font-style: italic;}
+
+.caption { font-size: 0.7rem;}
