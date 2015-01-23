@@ -1,0 +1,35 @@
+html{
+  background-color: #dbd6cf;
+  color: black;
+}
+
+h1{
+  font-family: 'Chewy', cursive;
+  font-style: bold;
+  color: #79756f;
+  font-size: 3rem;
+}
+
+h2{font-family: 'Chewy', cursive;
+font-style: bold;
+color: #79756f;
+font-size: 2rem;
+}
+
+h3 {font-family: 'Chewy', cursive;
+font-style: bold;
+color: #79756f;
+font-size: 1.5rem;}
+
+ol {
+  list-style: none;
+  text-decoration: underline;
+  padding: 0;
+  color: maroon;
+
+}
+
+.gray { color: #79756f;
+
+
+}
